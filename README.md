@@ -16,19 +16,20 @@ There are three main parts of a linear programming problem:
 
 I will use linear programming to help determine how to best allocate limited resources to maximize or minimize a quantity (like profit or cost).
 For this i used Add-on Solver : 
-For help using Solver, you can refer to the page [Define and solve a problem using Solver (Microsoft Support)](https://support.microsoft.com/en-us/office/define-and-solve-a-problem-by-using-solver-5d1a388f-079d-43ac-a7eb-f63e45925040).
+
+
 
 ![Solver](/images/20250123190507.png)
-
+For help using Solver, you can refer to the page [Define and solve a problem using Solver (Microsoft Support)](https://support.microsoft.com/en-us/office/define-and-solve-a-problem-by-using-solver-5d1a388f-079d-43ac-a7eb-f63e45925040).
 ### Campaign Marketing
 
 ![Task1](/images/172401.png)
-
-[Linear programming model 1](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/EXAVfbAEMfxPlvel03J7GLoBHE770gS6s4MWDdwQYW7Grw?e=DKHbR9)
+**Approach to this task:**
+[Excel sheet solution: click](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/EXAVfbAEMfxPlvel03J7GLoBHE770gS6s4MWDdwQYW7Grw?e=DKHbR9)
 
 ### Production Analysis  
 ![Task2](/images/20250124171623.png)
 
 
-#### Approach to this task:
-[Linear programming model 2](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/EXKHnoGr8gdOgc9RHcppP4YBct-bb_BeC7Rct_hBFXRQZw?e=WbbtB0)
+**Approach to this task:**
+[Excel sheet solution: click](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/EXKHnoGr8gdOgc9RHcppP4YBct-bb_BeC7Rct_hBFXRQZw?e=WbbtB0)
