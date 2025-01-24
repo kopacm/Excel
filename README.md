@@ -15,6 +15,10 @@ There are three main parts of a linear programming problem:
 ## Use Cases
 
 I will use linear programming to help determine how to best allocate limited resources to maximize or minimize a quantity (like profit or cost).
+For this i used Add-on Solver : 
+For help using Solver, you can refer to the page [Define and solve a problem using Solver (Microsoft Support)](https://support.microsoft.com/en-us/office/define-and-solve-a-problem-by-using-solver-5d1a388f-079d-43ac-a7eb-f63e45925040).
+
+![Solver](/images/20250123190507.png)
 
 ### Campaign Marketing
 
