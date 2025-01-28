@@ -15,6 +15,19 @@ There are three main parts of a linear programming problem:
 ## Use Cases
 
 I will use linear programming to help determine how to best allocate limited resources to maximize or minimize a quantity (like profit or cost).
+
+### I solved this tasks:
+
+1. How many ads of each type should be used?
+2. How many people will be reached?
+3. Maximize producation net profit
+4. Maximize profit invested in stock by following guidelines.
+5. Minimize the total student miles travelled by bus.
+6. Minimize total costs (which include salary, hiring, and firing costs) over the next five years.
+
+
+
+
 For this i used Add-on Solver : 
 
 
