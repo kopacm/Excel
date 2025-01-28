@@ -25,7 +25,7 @@ I will use linear programming to help determine how to best allocate limited res
 5. [Minimize the total student miles travelled by bus.](#Busing-Problem)
 6. [Minimize total costs (which include salary, hiring, and firing costs) over the next five years.](#HR-Problem)
 7. [The least-cost way for shippments](#Construction-projects-logistics)
-
+8. [Minimize total cost of transportation and manufacturing processes](#Production-and-shippments-Costs)
 
 
 
@@ -78,3 +78,10 @@ For help using Solver, you can refer to the page [Define and solve a problem usi
 
 **Approach to this task:**
 [Excel sheet solution: click](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/EQIMdTfY1Q1EidlHA2EiX6MBKGGTehY01dZny_PvfpI3Eg?e=j7sUfk)
+
+### Production and shippments Costs  
+![Task2](/images/Picture7.png)
+
+
+**Approach to this task:**
+[Excel sheet solution: click](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/EQIMdTfY1Q1EidlHA2EiX6MBKGGTehY01dZny_PvfpI3Eg?e=DGQMpy)
