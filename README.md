@@ -18,9 +18,9 @@ I will use linear programming to help determine how to best allocate limited res
 
 ### I solved this tasks:
 
-1. How many ads of each type should be used?
-2. How many people will be reached?
-3. Maximize producation net profit
+1. [How many ads of each type should be used?](#Campaign-Marketing)
+2. [How many people will be reached?](#Campaign-Marketing)
+3. [Maximize producation net profit](#Production-Analysis)
 4. Maximize profit invested in stock by following guidelines.
 5. Minimize the total student miles travelled by bus.
 6. Minimize total costs (which include salary, hiring, and firing costs) over the next five years.
