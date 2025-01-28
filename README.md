@@ -67,4 +67,4 @@ For help using Solver, you can refer to the page [Define and solve a problem usi
 
 
 **Approach to this task:**
-[Excel sheet solution: click](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/EUI0ezd5o0RDpX8HBJ7YT24Br4zrRyt49JIJx6k1f5k3_A?e=BEhMXu&nav=MTVfezM3MzA1NDU2LTk4NTQtNEQxQS1CM0JGLTE0MDgzOTVDQ0UxOX0)
+[Excel sheet solution: click](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/EUI0ezd5o0RDpX8HBJ7YT24Br4zrRyt49JIJx6k1f5k3_A?e=3HQMOp&nav=MTVfezM3MzA1NDU2LTk4NTQtNEQxQS1CM0JGLTE0MDgzOTVDQ0UxOX0)
