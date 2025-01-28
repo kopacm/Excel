@@ -21,9 +21,9 @@ I will use linear programming to help determine how to best allocate limited res
 1. [How many ads of each type should be used?](#Campaign-Marketing)
 2. [How many people will be reached?](#Campaign-Marketing)
 3. [Maximize producation net profit](#Production-Analysis)
-4. Maximize profit invested in stock by following guidelines.
-5. Minimize the total student miles travelled by bus.
-6. Minimize total costs (which include salary, hiring, and firing costs) over the next five years.
+4. [Maximize profit invested in stock by following guidelines.](#Production-Analysis)
+5. [Minimize the total student miles travelled by bus.](#Busing-Problem)
+6. [Minimize total costs (which include salary, hiring, and firing costs) over the next five years..](#HR-Problem)
 
 
 
@@ -54,9 +54,17 @@ For help using Solver, you can refer to the page [Define and solve a problem usi
 **Approach to this task:**
 [Excel sheet solution: click](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/EeA0blWsl1lCoHtUmkMjjLABmcfnZc1WeQtZ6qA-pdkJsQ?e=r0r5bt)
 
-### Production Analysis  
-![Task2](/images/20250124171623.png)
+### Busing Problem  
+![Task2](/images/Picture3.png)
 
 
 **Approach to this task:**
-[Excel sheet solution: click](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/EXKHnoGr8gdOgc9RHcppP4YBct-bb_BeC7Rct_hBFXRQZw?e=WbbtB0)
+[Excel sheet solution: click](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/EUI0ezd5o0RDpX8HBJ7YT24Br4zrRyt49JIJx6k1f5k3_A?e=Mo16yc&nav=MTVfezFBOTYyOUNGLTg3QjktNEQ5NC1BRUExLTFDNUUzRTU4NzlDQX0)
+
+
+### HR Problem  
+![Task2](/images/Picture2.png)
+
+
+**Approach to this task:**
+[Excel sheet solution: click](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/EUI0ezd5o0RDpX8HBJ7YT24Br4zrRyt49JIJx6k1f5k3_A?e=BEhMXu&nav=MTVfezM3MzA1NDU2LTk4NTQtNEQxQS1CM0JGLTE0MDgzOTVDQ0UxOX0)
