@@ -48,7 +48,7 @@ For help using Solver, you can refer to the page [Define and solve a problem usi
 [Excel sheet solution: click](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/EXKHnoGr8gdOgc9RHcppP4YBct-bb_BeC7Rct_hBFXRQZw?e=WbbtB0)
 
 ### Investment Allocation
-![Task2](/images/Picture1.png.png)
+![Task2](/images/Picture1.png)
 
 
 **Approach to this task:**
