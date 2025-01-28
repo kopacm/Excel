@@ -23,7 +23,10 @@ I will use linear programming to help determine how to best allocate limited res
 3. [Maximize producation net profit](#Production-Analysis)
 4. [Maximize profit invested in stock by following guidelines.](#Production-Analysis)
 5. [Minimize the total student miles travelled by bus.](#Busing-Problem)
-6. [Minimize total costs (which include salary, hiring, and firing costs) over the next five years..](#HR-Problem)
+6. [Minimize total costs (which include salary, hiring, and firing costs) over the next five years.](#HR-Problem)
+7. [The least-cost way for shippments](#Construction-projects-logistics)
+
+
 
 
 
@@ -68,3 +71,10 @@ For help using Solver, you can refer to the page [Define and solve a problem usi
 
 **Approach to this task:**
 [Excel sheet solution: click](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/EUI0ezd5o0RDpX8HBJ7YT24Br4zrRyt49JIJx6k1f5k3_A?e=3HQMOp&nav=MTVfezM3MzA1NDU2LTk4NTQtNEQxQS1CM0JGLTE0MDgzOTVDQ0UxOX0)
+
+### Construction projects logistics  
+![Task2](/images/Picture6.png)
+
+
+**Approach to this task:**
+[Excel sheet solution: click](https://thurse1-my.sharepoint.com/:x:/g/personal/137890_office365works_net/EQIMdTfY1Q1EidlHA2EiX6MBKGGTehY01dZny_PvfpI3Eg?e=j7sUfk)
